@@ -1,1 +1,1 @@
-I probably would not rely on this yet.... The options portion seems to be working good, but I still need to work on the event side of things. 
+This experiment totally did not workout for me. Refer to http://forum.jquery.com/topic/2-0-deprecation-hooks if you want to read why!
